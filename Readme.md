@@ -19,3 +19,11 @@
 - Loops
 - While loop
 - For loop
+
+
+# Day4: 
+- Strings
+- Slicing
+- Modify
+- Concatenation
+- Tasks
