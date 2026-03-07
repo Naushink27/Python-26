@@ -27,3 +27,11 @@
 - Modify
 - Concatenation
 - Tasks
+
+# Day5:
+- Lists
+- Access list items.
+- Change list items.
+- Add list items.
+- Remove list items.
+- Loops through list items.
