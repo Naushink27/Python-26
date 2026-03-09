@@ -35,3 +35,10 @@
 - Add list items.
 - Remove list items.
 - Loops through list items.
+
+# Day 6:
+- List comprehension
+- Join
+- Copy
+- Sort
+
